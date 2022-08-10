@@ -37,8 +37,8 @@ It will send a message: "I'm a mighty pirate - 5", with the number added for no 
 Feel free to drop everything you don't need.
 
 ## Development
-
-- Add product dependencies with `npm install --save-prod <dependency_name>`
+- Instal dependencies: `npm install`
+- Add additional dependencies with `npm install --save-prod <dependency_name>`
 - Write code in `src/index.js`
 
 ## Tests
